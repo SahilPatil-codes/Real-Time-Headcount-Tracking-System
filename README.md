@@ -30,18 +30,4 @@ A computer vision system for real-time people counting and movement analysis usi
 git clone https://github.com/SahilPatil-codes/Real-Time-Headcount-Tracking-System.git
 cd Real-Time-Headcount-Tracking-System
 
-# Create virtual environment
-python -m venv venv
-
-# Activate environment
-# Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Download YOLOv10 model
-python setup.py
 
