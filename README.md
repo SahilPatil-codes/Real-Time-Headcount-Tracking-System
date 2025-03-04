@@ -24,10 +24,8 @@ A computer vision system for real-time people counting and movement analysis usi
 - Webcam/IP Camera
 - NVIDIA GPU (Recommended for better performance)
 
-### Setup
-'''bash
 # Clone repository
 git clone https://github.com/SahilPatil-codes/Real-Time-Headcount-Tracking-System.git
-cd Real-Time-Headcount-Tracking-System
+
 
 
