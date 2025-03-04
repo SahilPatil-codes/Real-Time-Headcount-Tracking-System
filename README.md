@@ -28,4 +28,3 @@ A computer vision system for real-time people counting and movement analysis usi
 git clone https://github.com/SahilPatil-codes/Real-Time-Headcount-Tracking-System.git
 
 
-
