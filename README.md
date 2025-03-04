@@ -27,11 +27,5 @@ A computer vision system for real-time people counting and movement analysis usi
 # Clone repository
 git clone https://github.com/SahilPatil-codes/Real-Time-Headcount-Tracking-System.git
 
-graph TD
-    A[Video Input] --> B[Frame Capture]
-    B --> C[YOLOv10 Inference]
-    C --> D[Person Detection]
-    D --> E[Movement Analysis]
-    E --> F[Visualization]
-    F --> G[Display Output]
+
 
